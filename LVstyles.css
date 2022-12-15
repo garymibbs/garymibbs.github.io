@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+  }
+
+ #Sign img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  head{
+    color: white;
+  }
+
+  body{
+    color: white;
+  }
+
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightblue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  color: silver
+}
+h1{
+  text-align: center;
+}
+h5{
+  text-align:center;
+  color: silver;
+}
+h5{
+  font-family: 'Oswald', sans-serif;
+}
+body{font-family: 'Oswald', sans-serif;
+  color: lightskyblue;
+}
